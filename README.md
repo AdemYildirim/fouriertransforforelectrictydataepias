@@ -1,0 +1,2 @@
+# fouriertransforforelectrictydataepias
+Fourier Dönüşümü ile Elektrik Verilerinin İncelenmesi
